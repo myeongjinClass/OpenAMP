@@ -1,0 +1,21 @@
+﻿빌드 시작: 2016-11-28 오후 3:51:17
+     1>2 노드의 "D:\Research\병렬프로그래밍 공부\Morph\Morph_lib\Morph_lib.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         H:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W4 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D MORPH_LIB_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:fast /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Morph_lib.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         H:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W4 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D MORPH_LIB_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:fast /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt dllmain.cpp
+         건너뛰고 있습니다... (관련된 변경 내용 없음)
+         dllmain.cpp
+         H:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W4 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D MORPH_LIB_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:fast /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Morph_lib.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Morph_lib.cpp
+         건너뛰고 있습니다... (관련된 변경 내용 없음)
+         Morph_lib.cpp
+       Link:
+         H:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Research\병렬프로그래밍 공부\Morph\Debug\Morph_lib.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Research\병렬프로그래밍 공부\Morph\Debug\Morph_lib.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Research\병렬프로그래밍 공부\Morph\Debug\Morph_lib.lib" /MACHINE:X86 /DLL Debug\dllmain.obj
+         Debug\Morph_lib.obj
+         Debug\stdafx.obj
+         Morph_lib.vcxproj -> D:\Research\병렬프로그래밍 공부\Morph\Debug\Morph_lib.dll
+     1>"D:\Research\병렬프로그래밍 공부\Morph\Morph_lib\Morph_lib.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:06.35

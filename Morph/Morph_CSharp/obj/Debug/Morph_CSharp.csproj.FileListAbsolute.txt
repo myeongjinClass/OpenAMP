@@ -1,0 +1,11 @@
+D:\Research\병렬프로그래밍 공부\Morph\Morph_CSharp\bin\Debug\ParallelMorph.exe.config
+D:\Research\병렬프로그래밍 공부\Morph\Morph_CSharp\bin\Debug\Morph_lib.dll
+D:\Research\병렬프로그래밍 공부\Morph\Morph_CSharp\bin\Debug\ParallelMorph.exe
+D:\Research\병렬프로그래밍 공부\Morph\Morph_CSharp\bin\Debug\ParallelMorph.pdb
+D:\Research\병렬프로그래밍 공부\Morph\Morph_CSharp\obj\Debug\Morph_CSharp.csprojResolveAssemblyReference.cache
+D:\Research\병렬프로그래밍 공부\Morph\Morph_CSharp\obj\Debug\ParallelMorph.EditSettings.resources
+D:\Research\병렬프로그래밍 공부\Morph\Morph_CSharp\obj\Debug\ParallelMorph.MainForm.resources
+D:\Research\병렬프로그래밍 공부\Morph\Morph_CSharp\obj\Debug\ParallelMorph.Properties.Resources.resources
+D:\Research\병렬프로그래밍 공부\Morph\Morph_CSharp\obj\Debug\Morph_CSharp.csproj.GenerateResource.Cache
+D:\Research\병렬프로그래밍 공부\Morph\Morph_CSharp\obj\Debug\ParallelMorph.exe
+D:\Research\병렬프로그래밍 공부\Morph\Morph_CSharp\obj\Debug\ParallelMorph.pdb

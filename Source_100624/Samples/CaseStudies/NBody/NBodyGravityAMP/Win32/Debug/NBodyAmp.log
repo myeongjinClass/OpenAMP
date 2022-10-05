@@ -1,0 +1,36 @@
+﻿빌드 시작: 2013-10-17 오후 9:15:47
+     1>2 노드의 "D:\Research\병렬프로그래밍 공부\Source_100624\Samples\CaseStudies\NBody\NBodyAmp.vcxproj" 프로젝트(Build 대상)입니다.
+     1>PrepareForBuild:
+         "D:\Research\병렬프로그래밍 공부\Source_100624\Samples\CaseStudies\NBody\\NBodyGravityAMP\Debug\" 디렉터리를 만들고 있습니다.
+       InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "D:\Research\병렬프로그래밍 공부\Source_100624\Samples\CaseStudies\NBody\\NBodyGravityAMP\Win32\Debug\NBodyGravityAMP.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         D:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I.\DXUT\Core /I.\DXUT\Optional /Zi /nologo /W3 /WX- /Od /Ob2 /Oi /Oy- /D WIN32 /D _DEBUG /D DEBUG /D PROFILE /D _WINDOWS /D D3DXFX_LARGEADDRESS_HANDLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /arch:SSE2 /fp:fast /Zc:wchar_t /Zc:forScope /openmp- /Fo"D:\Research\병렬프로그래밍 공부\Source_100624\Samples\CaseStudies\NBody\\NBodyGravityAMP\Win32\Debug\\" /Fd"D:\Research\병렬프로그래밍 공부\Source_100624\Samples\CaseStudies\NBody\\NBodyGravityAMP\Win32\Debug\vc110.pdb" /Gd /TP /wd4005 /analyze- /errorReport:prompt  .\DXUT\Core\DXUT.cpp .\DXUT\Core\DXUTDevice11.cpp .\DXUT\Core\DXUTDevice9.cpp .\DXUT\Core\DXUTmisc.cpp .\DXUT\Optional\DXUTcamera.cpp .\DXUT\Optional\DXUTgui.cpp .\DXUT\Optional\DXUTres.cpp .\DXUT\Optional\DXUTsettingsdlg.cpp .\DXUT\Optional\SDKmesh.cpp .\DXUT\Optional\SDKmisc.cpp NBodyGravityAmp.cpp
+         DXUT.cpp
+     1>d:\research\병렬프로그래밍 공부\source_100624\samples\casestudies\nbody\dxut\core\DXUT.h(95): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+         DXUTDevice11.cpp
+     1>d:\research\병렬프로그래밍 공부\source_100624\samples\casestudies\nbody\dxut\core\DXUT.h(95): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+         DXUTDevice9.cpp
+     1>d:\research\병렬프로그래밍 공부\source_100624\samples\casestudies\nbody\dxut\core\DXUT.h(95): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+         DXUTmisc.cpp
+     1>d:\research\병렬프로그래밍 공부\source_100624\samples\casestudies\nbody\dxut\core\dxut.h(95): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+         DXUTcamera.cpp
+     1>D:\Research\병렬프로그래밍 공부\Source_100624\Samples\CaseStudies\NBody\DXUT\Core\DXUT.h(95): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+         DXUTgui.cpp
+     1>D:\Research\병렬프로그래밍 공부\Source_100624\Samples\CaseStudies\NBody\DXUT\Core\DXUT.h(95): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+         DXUTres.cpp
+     1>D:\Research\병렬프로그래밍 공부\Source_100624\Samples\CaseStudies\NBody\DXUT\Core\DXUT.h(95): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+         DXUTsettingsdlg.cpp
+     1>D:\Research\병렬프로그래밍 공부\Source_100624\Samples\CaseStudies\NBody\DXUT\Core\DXUT.h(95): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+         SDKmesh.cpp
+     1>D:\Research\병렬프로그래밍 공부\Source_100624\Samples\CaseStudies\NBody\DXUT\Core\DXUT.h(95): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+         SDKmisc.cpp
+     1>D:\Research\병렬프로그래밍 공부\Source_100624\Samples\CaseStudies\NBody\DXUT\Core\dxut.h(95): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+         NBodyGravityAmp.cpp
+     1>NBodyGravityAmp.cpp(22): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx11.h': No such file or directory
+         코드를 생성하고 있습니다...
+     1>"D:\Research\병렬프로그래밍 공부\Source_100624\Samples\CaseStudies\NBody\NBodyAmp.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:41.17

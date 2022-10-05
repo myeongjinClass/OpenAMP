@@ -1,0 +1,24 @@
+﻿빌드 시작: 2013-09-30 오후 11:14:23
+     1>4 노드의 "D:\Research\병렬프로그래밍 공부\AMP\MatrixMultiplication_Serial\MatrixMultiplication_Serial.vcxproj" 프로젝트(Build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\MatrixMultiplication_Serial.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         D:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\MatrixMultiplication_Serial.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MatrixMultiplication_Serial.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt MatrixMultiplication_Serial.cpp timer.cpp
+         timer.cpp
+         MatrixMultiplication_Serial.cpp
+         코드를 생성하고 있습니다...
+       Link:
+         D:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Research\병렬프로그래밍 공부\AMP\Debug\MatrixMultiplication_Serial.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Research\병렬프로그래밍 공부\AMP\Debug\MatrixMultiplication_Serial.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Research\병렬프로그래밍 공부\AMP\Debug\MatrixMultiplication_Serial.lib" /MACHINE:X86 Debug\MatrixMultiplication_Serial.obj
+         Debug\stdafx.obj
+         Debug\timer.obj
+         MatrixMultiplication_Serial.vcxproj -> D:\Research\병렬프로그래밍 공부\AMP\Debug\MatrixMultiplication_Serial.exe
+       FinalizeBuildStatus:
+         "Debug\MatrixMultiplication_Serial.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\MatrixMultiplication_Serial.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"D:\Research\병렬프로그래밍 공부\AMP\MatrixMultiplication_Serial\MatrixMultiplication_Serial.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:05.59
